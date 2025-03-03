@@ -19,7 +19,9 @@ Hi ! I am Hassan a Developer from France 👨🏽‍💻<br>
 🎯 I am currently learning Angular and JavaScript<br>
 
 ---
-## ✨More about me : <br> <br>   👋🏽   I am Hassan, an application designer and developper specializing in React.js and Node.js.
+## ✨  More about me : <br> 
+I am an application developper specializing in React.js and Node.js.
+
 ---
 ## 🛠️ Tech Stack
 
