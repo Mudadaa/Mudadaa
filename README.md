@@ -2,12 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-layeb/)
 #                                             Hello stranger 
-
-
 <img src="https://raw.githubusercontent.com/Mudadaa/HassanPortfolio/main/HLinAwe.png" width="250">
-
-
-
 ---
 </div>
 
@@ -34,7 +29,8 @@ I have also explored new technologies such as Angular, TypeScript, Next.js, and 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 ## 📈 GitHub Stats
 <!--GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
@@ -42,7 +38,7 @@ I have also explored new technologies such as Angular, TypeScript, Next.js, and 
 
 ---
 ## 🤪 Fun facts about me :
-* <img src ="https://github.com/user-attachments/assets/971a893c-3cab-464c-8c2b-9b97d98494b5" width="40">I made my first website about Jojo's Bizarre Adventure during Uni
+* <img src ="https://github.com/user-attachments/assets/971a893c-3cab-464c-8c2b-9b97d98494b5" width="40"> I made my first website about Jojo's Bizarre Adventure during Uni
 * ❄️🏂 I learnt snowboarding at Hakuba Iwatake during a working VISA Holiday
 * 🦾🎮 I am still Iron at League of Legends
 
