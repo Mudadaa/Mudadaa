@@ -1,18 +1,25 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-layeb/)
-#                                             Hello stranger 🖖🏾
+#                                             Hello stranger 
+
+
+<img src="https://raw.githubusercontent.com/Mudadaa/HassanPortfolio/main/HLinAwe.png" width="250">
+
+
+
 ---
 </div>
 
 ## <img src="https://github.com/user-attachments/assets/fe2c66b1-7929-47a9-811b-51ae19438ae9" alt="Comet" width="70"> Get to know me
-Hi ! I am Hassan a Developer from France 
 
+Hi ! I am Hassan a Developer from France 👨🏽‍💻<br>
+🔎 I am currently looking for a full-time job as a Frontend developer<br> 
+📚 I am a former Japanese / English speaker student <br>
+🎯 I am currently learning Angular and JavaScript<br>
 
-💻 Passionné par le développement web et les technologies modernes<br> 
-📚 En constante évolution avec **HTML5, CSS3, JavaScript, et React**<br>
-🎯 Objectif : Créer des interfaces interactives et performantes<br>
-
+---
+## ✨More about me : <br> <br>   👋🏽   I am Hassan, an application designer and developper specializing in React.js and Node.js.
 ---
 ## 🛠️ Tech Stack
 
