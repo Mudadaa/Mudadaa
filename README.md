@@ -39,7 +39,7 @@ I have also explored new technologies such as Angular, TypeScript, Next.js, and 
 ---
 ## 🤪 Fun facts about me :
 * <img src ="https://github.com/user-attachments/assets/971a893c-3cab-464c-8c2b-9b97d98494b5" width="40"> I made my first website about Jojo's Bizarre Adventure during Uni
-* ❄️🏂 I learnt snowboarding at Hakuba Iwatake during a working VISA Holiday
+* ❄️🏂 I learned snowboarding at Hakuba Iwatake during a working VISA Holiday
 * 🦾🎮 I am still Iron at League of Legends
 
 
