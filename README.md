@@ -6,7 +6,7 @@
 ---
 </div>
 
-## Get to know me
+##  Get to know me
 
 Hi ! I am Hassan a Developer from France 👨🏽‍💻<br>
 🔎 I am currently looking for a full-time job as a Frontend developer<br> 
