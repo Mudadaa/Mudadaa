@@ -6,7 +6,7 @@
 ---
 </div>
 
-## <img src="https://github.com/user-attachments/assets/fe2c66b1-7929-47a9-811b-51ae19438ae9" alt="Comet" width="70"> Get to know me
+## Get to know me
 
 Hi ! I am Hassan a Developer from France 👨🏽‍💻<br>
 🔎 I am currently looking for a full-time job as a Frontend developer<br> 
