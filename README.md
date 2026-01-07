@@ -15,7 +15,7 @@ Hi ! I am Hassan a Developer from France 👨🏽‍💻<br>
 
 ---
 ## ✨  More about me : <br> 
-👋🏽I am Hassan, an application developper specializing in React.js and Node.js.
+👋🏽I am an application developper specializing in React.js and Node.js.
 <h3>👨🏾🎓My Journey</h3>
 During my second year of foreign language studies, an assignment in my IT courses sparked my interest in web development. However, it was only after working at a Japanese ski resort that I began an online JavaScript web course in 2023. 
 Through this course, I acquired skills in front-end development (Vanilla JavaScript, React.js) and back-end development (Node.js).<br> 
