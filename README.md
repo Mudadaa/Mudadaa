@@ -40,6 +40,6 @@ I have also explored new technologies such as Angular, TypeScript, Next.js, and 
 ## 🤪 Fun facts about me :
 * <img src ="https://github.com/user-attachments/assets/971a893c-3cab-464c-8c2b-9b97d98494b5" width="40"> I made my first website about Jojo's Bizarre Adventure during Uni
 * ❄️🏂 I learned snowboarding at Hakuba Iwatake during a working VISA Holiday
-* 🦾🎮 At League of Legends, I spent a lot of time at the Iron elo but now I am Silver ! 
+* 🦾🎮 At League of Legends, I spent a lot of time at the Iron elo but now I am Silver! I am persistent !
 
 
